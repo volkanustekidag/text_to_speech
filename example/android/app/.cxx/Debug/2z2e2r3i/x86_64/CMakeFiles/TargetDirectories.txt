@@ -1,0 +1,2 @@
+/Users/ogoo/text_to_speech/example/android/app/.cxx/Debug/2z2e2r3i/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/ogoo/text_to_speech/example/android/app/.cxx/Debug/2z2e2r3i/x86_64/CMakeFiles/edit_cache.dir
